@@ -1,11 +1,3 @@
-ava ile i
-
-
-
-EKOK : 
-
-Ödev
-Java ile iki sayının EBOB ve EKOK değerlerini "While Döngüsü" kullanarak yazınız.
 
 ## EBOB EKOK BULMA
 ### Bu repo Java döngüler konusunun pekiştirilmesi amacıyla yapılan örnekleri içermektedir.
@@ -47,7 +39,7 @@ Java ile iki sayının EBOB ve EKOK değerlerini "While Döngüsü" kullanarak y
 
 ## Installation
 Clone the project.
-> https://github.com/miyendisa/ebob-ekok.git
+> https://github.com/miyendisa/gcd-lcm-calculator.git
 
 ---
 
